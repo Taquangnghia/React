@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "nghia",
+      "price": "111",
+      "img": "12313",
+      "id": 2
+    },
+    {
+      "name": "nghia",
+      "price": "123123",
+      "img": "12313",
+      "id": 3
+    },
+    {
+      "name": "nghia",
+      "price": "1233",
+      "img": "dsadsad",
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "email": "nghiatqph13235@fpt.edu.vn",
+      "password": "123123",
+      "id": 1
+    }
+  ]
+}
